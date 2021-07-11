@@ -21,7 +21,7 @@ def login_auth():
 	# username & password
 	login_data = {
 	    "username": "sunxiaooo",
-	    "password": "770218",
+	    "password": "xxx",
 	    "checkcode": "XxXx"
 	}
 	# urllib encode
